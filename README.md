@@ -1,0 +1,1 @@
+Here are all my progress during i studied in University of Information Technology, included exeercises and some code languages that i had learned by myself. Furthermore, i did a few project with my team, i had tried backend developer, train model AI and data analyst.  
